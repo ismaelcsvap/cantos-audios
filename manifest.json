@@ -1,0 +1,66 @@
+[
+  {
+    "id": "canto-aracua",
+    "name": "Aracuã",
+    "audioUrl": "https://raw.githubusercontent.com/ismaelcsvap/cantos-audios/main/audios/Aracu%C3%A2.mp3",
+    "emoji": "🐦",
+    "gradientIndex": 0,
+    "durationMs": 0
+  },
+  {
+    "id": "canto-capivara",
+    "name": "Capivara",
+    "audioUrl": "https://raw.githubusercontent.com/ismaelcsvap/cantos-audios/main/audios/Capivara.mp3",
+    "emoji": "🐾",
+    "gradientIndex": 1,
+    "durationMs": 0
+  },
+  {
+    "id": "canto-cutia",
+    "name": "Cutia",
+    "audioUrl": "https://raw.githubusercontent.com/ismaelcsvap/cantos-audios/main/audios/Cutia.mp3",
+    "emoji": "🐾",
+    "gradientIndex": 2,
+    "durationMs": 0
+  },
+  {
+    "id": "canto-juriti",
+    "name": "Juriti",
+    "audioUrl": "https://raw.githubusercontent.com/ismaelcsvap/cantos-audios/main/audios/Juriti.mp3",
+    "emoji": "🐦",
+    "gradientIndex": 3,
+    "durationMs": 0
+  },
+  {
+    "id": "canto-lambu-pe-roxo",
+    "name": "Lambu Pé Roxo",
+    "audioUrl": "https://raw.githubusercontent.com/ismaelcsvap/cantos-audios/main/audios/Lambu%20P%C3%A9%20Roxo.mp3",
+    "emoji": "🐦",
+    "gradientIndex": 4,
+    "durationMs": 0
+  },
+  {
+    "id": "canto-lambu-preta",
+    "name": "Lambú Preta",
+    "audioUrl": "https://raw.githubusercontent.com/ismaelcsvap/cantos-audios/main/audios/Lamb%C3%BA%20Preta.mp3",
+    "emoji": "🐦",
+    "gradientIndex": 5,
+    "durationMs": 0
+  },
+  {
+    "id": "canto-mateiro",
+    "name": "Mateiro",
+    "audioUrl": "https://raw.githubusercontent.com/ismaelcsvap/cantos-audios/main/audios/Mateiro.mp3",
+    "emoji": "🐦",
+    "gradientIndex": 6,
+    "durationMs": 0
+  },
+  {
+    "id": "canto-paca",
+    "name": "Paca",
+    "audioUrl": "https://raw.githubusercontent.com/ismaelcsvap/cantos-audios/main/audios/Paca.mp3",
+    "emoji": "🐾",
+    "gradientIndex": 7,
+    "durationMs": 0
+  }
+]
